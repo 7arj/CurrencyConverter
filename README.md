@@ -37,7 +37,8 @@ A modern Flutter application that allows users to convert currencies with real-t
 	2.  Open the `config.dart` file and replace `your_api_key_here` with your actual API key which you can get for free from https://www.exchangerate-api.com/
 	
 5. ### Run the app
-	Start the  application using the following command
+	Start the  application using the following command:
+
 	flutter run  
 
 ## Features
