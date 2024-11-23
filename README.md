@@ -48,7 +48,6 @@ A modern Flutter application that allows users to convert currencies with real-t
  - **Persistent Preferences**: Uses `SharedPreferences` to remember your last selected currencies and entered amount.
 
 
-##Demo
-[![Watch the video](https://raw.githubusercontent.com/7arj/CurrencyConverter/main/assets/Screenshot 2024-11-23 192559.jpg)](https://raw.githubusercontent.com/username/repository/branch/assets/video_2024-11-23_19-11-50.mp4)
+
 
 
