@@ -47,6 +47,10 @@ A modern Flutter application that allows users to convert currencies with real-t
  - **Swap Currencies**: Quickly swap the base and target currencies with a single click.
  - **Persistent Preferences**: Uses `SharedPreferences` to remember your last selected currencies and entered amount.
 
+## Demo
+
+https://github.com/user-attachments/assets/db4bb2b8-e846-4c5c-bdf4-45f975bec7f9
+
 
 
 
